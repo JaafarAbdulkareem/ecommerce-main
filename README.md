@@ -17,7 +17,7 @@ Elegant Design: Enjoy a sleek and visually pleasing welcome screen. 🌟🎉
 
 Quick Load Time: Start browsing products in no time. 🚀🔄
 
-![App_Features](assets/screenshot/edtail.png)
+![App_Features](assets/screenshot/detail.png)
 
 ### 2. *Product Display with Floating Images* 🖼️💸
 
