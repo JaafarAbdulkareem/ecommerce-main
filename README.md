@@ -62,7 +62,7 @@ Enjoy a real-time shopping experience powered by seamless API integration:
 
 If you have any questions, need support, or want to suggest improvements, feel free to get in touch with us! 🤗☎️
 
-- *Email:* jaafar.tbp@gamil.com📧  
+- *Email:* jaafar.tbp@gamil.com 📧  
 - *LinkedIn:* [@Jaafar Abdulkareem](https://www.linkedin.com/in/jaafar-b-23b647297/) 📚  
 - *WhatsApp:* [Contact us on WhatsApp](https://wa.me/+917204438952) 📱
 
